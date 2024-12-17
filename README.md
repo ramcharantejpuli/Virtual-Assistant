@@ -97,13 +97,13 @@ Bittuuu responds to various natural language commands through both voice and tex
 ## 🖼️ Screenshots
 
 ### ✨ Your AI Companion Awaits
-![Your AI Companion](image/Outputs/1.jpg)
+![Your AI Companion](https://raw.githubusercontent.com/ramcharantejpuli/Virtual-Assistant-/main/image/Outputs/1.jpg)
 
 ### 🤖 Intelligence at Your Fingertips
-![Smart Interaction](image/Outputs/2.jpg)
+![Smart Interaction](https://raw.githubusercontent.com/ramcharantejpuli/Virtual-Assistant-/main/image/Outputs/2.jpg)
 
 ### 🚀 Seamless Voice & Text Integration
-![Voice and Text Integration](image/Outputs/3.jpg)
+![Voice and Text Integration](https://raw.githubusercontent.com/ramcharantejpuli/Virtual-Assistant-/main/image/Outputs/3.jpg)
 
 ## 🚀 Running the Application
 
