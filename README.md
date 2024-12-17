@@ -97,13 +97,19 @@ Bittuuu responds to various natural language commands through both voice and tex
 ## 🖼️ Screenshots
 
 ### ✨ Your AI Companion Awaits
-<img src="image/Outputs/1.jpg" alt="Your AI Companion" width="500"/>
+<div align="center">
+<img src="image/Outputs/1.jpg" alt="Your AI Companion" width="700"/>
+</div>
 
 ### 🤖 Intelligence at Your Fingertips
-<img src="image/Outputs/2.jpg" alt="Smart Interaction" width="500"/>
+<div align="center">
+<img src="image/Outputs/2.jpg" alt="Smart Interaction" width="700"/>
+</div>
 
 ### 🚀 Seamless Voice & Text Integration
-<img src="image/Outputs/3.jpg" alt="Voice and Text Integration" width="500"/>
+<div align="center">
+<img src="image/Outputs/3.jpg" alt="Voice and Text Integration" width="700"/>
+</div>
 
 ## 🚀 Running the Application
 
